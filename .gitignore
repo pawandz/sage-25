@@ -1,0 +1,32 @@
+/blog/wp-admin/
+/blog/wp-content/index.php
+/blog/wp-content/languages
+/blog/wp-content/plugins/index.php
+/blog/wp-content/themes/index.php
+/blog//wp-content/cache
+/blog//wp-content/1-cache-1
+/blog//wp-content/upgrade
+/blog/wp-includes/
+/blog/index.php
+/blog/license.txt
+/blog/readme.html
+/blog/wp-*.php
+/blog/xmlrpc.php
+
+# Configuration
+/blog/wp-config.php
+
+# Example themes
+/blog/wp-content/themes/twenty*/
+
+# Example plugin
+/blog/wp-content/plugins/hello.php
+
+# Uploads
+/blog/wp-content/uploads/
+
+# Log files
+*.log
+
+# htaccess
+/blog/.htaccess

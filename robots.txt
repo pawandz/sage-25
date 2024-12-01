@@ -1,0 +1,7 @@
+Sitemap: https://www.sagetitans.com/sitemap.xml
+Sitemap: https://www.sagetitans.com/sage/post-sitemap.xml
+User-agent: *
+Disallow: /sage/wp-admin/
+Disallow: /thank-you.html
+Disallow: /thank-you.php
+
